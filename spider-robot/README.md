@@ -4,6 +4,9 @@ This project is developed by Robotilab Club.
 
 ## 🤖 Project Description
 This project focuses on building a 4-legged (quadruped) spider-inspired robot. The robot mimics basic walking movements using small servo motors and is designed as a lightweight and efficient system.
+## Spider Robot
+
+![Spider Robot](spider-robot.jpeg)
 
 ## ⚙️ Features
 - 4-legged walking mechanism
