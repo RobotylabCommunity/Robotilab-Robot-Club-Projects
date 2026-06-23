@@ -25,8 +25,8 @@ This project focuses on building a 4-legged (quadruped) spider-inspired robot. T
 - Breadboard & Jumper Wires
 
 ## 👥 Team
-- Spider Robot Team
-- Robotilab Club
+- @oubaiajlouni-code
+- Alesar Alkateb
 
 ## 🚀 Goal
 To develop a simple and efficient quadruped robot as a foundation for more advanced robotic systems.
